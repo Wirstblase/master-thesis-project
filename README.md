@@ -4,11 +4,15 @@ This is a place for experimentation for my master thesis. Here I will post the l
 
 ⚠️ **Expect chaos**: it is possible that the entire codebase will be removed and re-written from scratch between revisions ⚠️
 
-### Running the code:
+## ✅  Current functionality 
+
+This section will document what the code currently does.
+
+## ⚙️  Running the code 
 
 This section will provide a step-by-step guide to run the code.
 
-### Weekly update schedule:
+## 📅  Weekly update schedule 
 
 (week 1 started on monday, 24 feb 2025)
 1. Provide initial project title + Upload codebase
